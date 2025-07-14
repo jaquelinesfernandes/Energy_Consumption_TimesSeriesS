@@ -13,6 +13,7 @@ Este projeto visa analisar e prever o **consumo de energia elétrica** com base 
 - Visualizações interativas e painéis analíticos para comunicação dos resultados utilizando Plotly
 - Previsão do consumo para os 12 meses de **2025**, com intervalos de confiança
 
+![alt text](image.png)
 ---
 
 ## 🧰 Principais Bibliotecas Utilizadas
@@ -49,6 +50,8 @@ Este projeto visa analisar e prever o **consumo de energia elétrica** com base 
 - RMSE médio: **≈ 49 kWh**
 - Resíduos distribuídos de forma quase normal, sem autocorrelação significativa
 - Gráficos mostram boa aderência entre previsão e valores reais, especialmente em períodos com padrão sazonal
+  
+![alt text](Forecasting_plot.png)
 
 ---
 
