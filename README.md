@@ -22,7 +22,7 @@ Este projeto visa analisar e prever o **consumo de energia elétrica** com base 
 |--------------------------|------------------------------|
 | Manipulação de Dados     | `pandas`, `numpy`            |
 | Séries Temporais         | `statsmodels`, `pmdarima`    |
-| Aprendizado de Máquina   | `xgboost`, `scikit-learn`    |
+| Aprendizado de Máquina   | `sarimax`, `scikit-learn`    |
 | Visualização             | `matplotlib`, `seaborn`, `plotly` |
 | Utilitários              | `datetime`, `warnings`       |
 
